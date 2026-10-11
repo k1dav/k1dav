@@ -9,7 +9,7 @@
 
 ## 📱 App
 
-**[平平記帳 Evenly](https://apps.apple.com/us/app/evenly-balanced-books/id6790163143)** — 拖一下記一筆，每一筆都平衡。把複式簿記藏進拖曳手感的 iOS 記帳 App：信用卡帳期、多幣別、拆帳、iCloud 共享資產、AI 記帳；無帳號、無追蹤、無廣告。
+**[平平記帳 Evenly](https://www.k1dav.fun/evenly)** — 拖一下記一筆，每一筆都平衡。把複式簿記藏進拖曳手感的 iOS 記帳 App：信用卡帳期、多幣別、拆帳、iCloud 共享資產；無帳號、無追蹤、無廣告。
 
 [![Download on the App Store](https://img.shields.io/badge/App_Store-平平記帳_Evenly-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/us/app/evenly-balanced-books/id6790163143)
 
