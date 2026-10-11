@@ -1,11 +1,17 @@
-# Hi, I'm S.Feng (Dave) 👋
+# Hi, I'm S.Feng 👋
 
 專注在 **AI 落地、MCP 工具鏈與 DevOps / MLOps** 的工程師，喜歡把重複的事情自動化，也把踩過的坑整理成筆記。
 
-- 📝 技術手扎：<https://www.k1dav.fun>（Playbooks、AI / MLOps 名詞筆記、教學）
+- 📝 技術筆記 k1dav：<https://www.k1dav.fun>（Playbooks、AI / MLOps 名詞筆記、教學）
 - 🗂 所有作品：<https://www.k1dav.fun/projects>
 - 🏢 組織：[@k1dav-c](https://github.com/k1dav-c)
 - 💼 [LinkedIn](https://www.linkedin.com/in/fengjie-sung-243984179/)
+
+## 📱 App
+
+**[平平記帳 Evenly](https://apps.apple.com/us/app/evenly-balanced-books/id6790163143)** — 拖一下記一筆，每一筆都平衡。把複式簿記藏進拖曳手感的 iOS 記帳 App：信用卡帳期、多幣別、拆帳、iCloud 共享資產、AI 記帳；無帳號、無追蹤、無廣告。
+
+[![Download on the App Store](https://img.shields.io/badge/App_Store-平平記帳_Evenly-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/us/app/evenly-balanced-books/id6790163143)
 
 ## 🚀 精選專案
 
@@ -20,4 +26,4 @@
 
 ## 🔧 常用技術
 
-`Python` `FastAPI` `TypeScript` `React` `Hasura` `PostgreSQL` `RabbitMQ` `Docker` `Kubernetes / K3s` `Terraform` `Ansible` `Proxmox VE` `Coder` `Claude Code` `MCP`
+`Swift` `Python` `FastAPI` `TypeScript` `React` `Hasura` `PostgreSQL` `RabbitMQ` `Docker` `Kubernetes / K3s` `Terraform` `Ansible` `Proxmox VE` `Coder` `Claude Code` `MCP`
